@@ -1,0 +1,8 @@
+{
+  "short_name": "Template App",
+  "name": "Template for Vj Consulting",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
