@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap');
+
+.background {
+    background-color: rgb(224, 224, 224);
+}
+
+.size {
+    font-size: x-large;
+    font-family: 'Ubuntu', sans-serif;
+}
